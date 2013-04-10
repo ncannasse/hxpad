@@ -1,0 +1,6 @@
+/pad/Debug
+/pad/Release
+/pad/*.sdf
+/pad/*.user
+/pad/*.opensdf
+/pad/*.suo
